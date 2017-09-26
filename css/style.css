@@ -1,0 +1,147 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 55px;
+	padding-bottom: 75px;
+
+	background-image: url("https://i.pinimg.com/originals/fb/04/99/fb049953437ae89baa065bcce27bd799.gif");
+	background-repeat: round;
+	
+
+
+}
+
+.boton0{
+	margin: 0 auto;
+margin-top: 10px;
+margin-bottom: 10px;
+width: 90px;
+}
+.contenedor
+{
+	margin: 0 auto;
+	width: 895px;
+	background: white;
+
+}
+
+
+
+header{
+	margin: 0 auto;
+	width: 895px;
+}
+
+
+.logo{
+	margin:0 auto;
+	
+	
+}
+
+h2 {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	word-spacing: 5px;
+	letter-spacing: 4px;
+	margin-top:-20px;
+	margin-bottom: 30px;
+
+}
+
+
+.botones {
+margin:0 auto;
+margin-top: -120px;
+width: 700px;
+padding: 40px;
+
+}
+
+button {
+	background-color: white;
+	text-transform: uppercase;
+	border: 0px;
+	text-transform: uppercase;
+	width: 150px;
+	margin-left:30px;
+	margin-right: 30px;
+
+}
+
+.imagenes {
+	margin-top: 50px;
+}
+
+
+h3 {
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	word-spacing: 5px;
+	letter-spacing: 4px;
+	padding: 5px;
+	
+
+}
+
+
+
+
+.foto1 {
+	width: 250px;
+	float: left;
+	margin-left: 35px;
+
+
+}
+
+.foto1:hover {
+	transform: scale(1.2);
+
+
+ 
+}
+
+
+.boton1:hover {
+
+	background-color: #A01127;
+}
+
+.boton2:hover {
+
+	background-color: #A01127;
+}
+
+.boton3:hover {
+
+	background-color: #A01127;
+}
+a {
+	text-decoration: none;
+}
+
+
+
+
+	footer {
+	margin-top: 100px;
+	clear: both; 
+	background:#A01127;
+	height:40px;
+}
+
+footer address { 
+	font-family: 'Raleway', sans-serif;
+	position:relative; 
+	top:13px; 
+	left:20px; 
+	color:#fff; 
+	text-align:center; 
+	font-size:13px; 
+
+}
